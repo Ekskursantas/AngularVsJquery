@@ -1,0 +1,4 @@
+ApplicationConfig.class
+model\Member.class
+rest\MembersService.class
+model\DataFactory.class
